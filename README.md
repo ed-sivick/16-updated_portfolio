@@ -1,6 +1,6 @@
 # 16-Updated Portfolio
 ___
-## Application Links:
+## Professional Materials Links:
 Portfolio: (https://ed-sivick.github.io/16-updated_portfolio/index)  
 GitHub Profile: (https://github.com/ed-sivick)  
 Resume: (https://github.com/ed-sivick/16-updated_portfolio/blob/main/assets/esivick_resume_12-01-20.pdf)  
