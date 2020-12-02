@@ -58,6 +58,11 @@
     font-size: 1rem;
     font-weight: bold;
 }
+/* Styling for contact text */
+.contactText {
+    text-decoration: underline;
+    margin-bottom: 0%;
+}
 /* footer class style */
 .footer {
     font-family: 'Times New Roman', Times, serif;
