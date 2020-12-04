@@ -19,8 +19,13 @@
     padding-left: 1rem;
     padding-top: 1rem;
 }
-/* horizontal ruler (hr) style */
+/* top horizontal ruler (hr) style */
 .head_info hr {
+    height:5px;
+    background-color: #007bff;
+}
+/* project horizontal ruler (hr) style */
+hr.divider {
     height:5px;
     background-color: #007bff;
 }
